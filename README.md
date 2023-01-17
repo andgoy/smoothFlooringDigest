@@ -14,3 +14,7 @@ Signoffs are also randomly chosen.
 "How will this help me?"
 
 Can be used as a template for sending emails repeatedly to a list of people.
+
+"How do I use it?"
+
+Download both files in the repo, then modify smoothFlooringDigestGeneric.py to your liking.
