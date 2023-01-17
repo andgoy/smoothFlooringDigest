@@ -13,4 +13,4 @@ Signoffs are also randomly chosen.
 
 "How will this help me?"
 
-Can be used as a template for sending emails repeatedly.
+Can be used as a template for sending emails repeatedly to a list of people.
